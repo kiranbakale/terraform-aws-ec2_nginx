@@ -5,5 +5,5 @@ output "instance_publicip" {
 
 output "vpc-id" {
   value       = aws_vpc.myvpc.id
-  description = "VPC_ID"
+  description = "CIDR value of the VPC that will be provisoned"
 }

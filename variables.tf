@@ -4,10 +4,5 @@ variable "instance_type" {
 }
 variable "vpc_id" {
   type = string
-}
-
-
-variable "server_name" {
-  type    = string
-  default = "Apache Example Server"
+  description = "CIDR Value of the VPC"
 }

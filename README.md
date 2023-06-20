@@ -1,4 +1,4 @@
-A customised Terraform Module to provision VPC,Internet Gateway,Route tables,Subnets and a public Instance that is running Nginx.
+A customised Terraform Module to provision VPC,Internet Gateway,Route tables,Subnets and a public Instance that is running NGINX.
 
 Not intended for production use. Just showcasing how to create a public module on Terraform Registry
 
